@@ -28,7 +28,7 @@ body{
 }
 .img{
     flex:1;
-    background-image: url(/images/yellow.jpeg);
+    background-image: url(yellow.jpeg);
     background-repeat: no-repeat;
    
 }
